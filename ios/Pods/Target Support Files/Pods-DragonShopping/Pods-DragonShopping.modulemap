@@ -1,0 +1,6 @@
+module Pods_DragonShopping {
+  umbrella header "Pods-DragonShopping-umbrella.h"
+
+  export *
+  module * { export * }
+}
